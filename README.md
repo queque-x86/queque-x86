@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
 </p>
@@ -16,6 +16,7 @@ I'm a C++ developer interested in **low-level programming, cryptography, securit
 * C / C++
 * Python
 * Cryptography
+* eSTREAM Ciphers
 * Security Research
 * Systems Programming
 * Performance Optimization
@@ -24,11 +25,12 @@ I'm a C++ developer interested in **low-level programming, cryptography, securit
 
 Interested in:
 
+* eSTREAM Ciphers
 * ChaCha20 / XChaCha20
 * Salsa20
 * Stream Ciphers
-* ARX constructions
-* Cryptographic implementations
+* ARX Constructions
+* Cryptographic Implementations
 
 ### 🛠️ Tools
 
