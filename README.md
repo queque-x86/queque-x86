@@ -1,4 +1,4 @@
-# 👋 Hi, I'm QueQue
+# 👋 Hi, I'm ByteBit
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
