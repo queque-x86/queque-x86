@@ -22,12 +22,19 @@ C++ & ASM developer focused on system-level programming, low-level concepts, cry
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=queque-x86&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa"
-    alt="PufferFish GitHub statistics"
+    src="https://github-readme-stats.vercel.app/api?username=queque-x86&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub statistics for PufferFish"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=queque-x86&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa"
-    alt="PufferFish most used programming languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=queque-x86&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most used programming languages by PufferFish"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=queque-x86&theme=github-dark-blue&hide_border=true"
+    alt="PufferFish GitHub contribution streak"
   />
 </p>
 
@@ -44,4 +51,4 @@ Keep it low-level.
 
 ---
 
-`PufferFish`
+`PufferFish // queque-x86`
