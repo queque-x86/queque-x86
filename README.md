@@ -21,16 +21,16 @@ C++ & ASM developer focused on system-level programming, low-level concepts, cry
 ### `GITHUB STATS`
 
 <p align="center">
-  <a href="https://github.com/queque-x86">
-    <img src="https://github-readme-stats.vercel.app/api?username=queque-x86&show_icons=true&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/queque-x86">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queque-x86&layout=compact&theme=github_dark&hide_border=true" />
-  </a>
+  <img src="https://revdex.re/streak.php?user=queque-x86" />
 </p>
 
 <p align="center">
-  <img src="https://revdex.re/streak.php?user=queque-x86" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=queque-x86&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=queque-x86&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=queque-x86&theme=github_dark" />
 </p>
 
 ---
