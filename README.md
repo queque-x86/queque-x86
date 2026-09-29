@@ -23,18 +23,18 @@ C++ & ASM developer focused on system-level programming, low-level concepts, cry
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=queque-x86&show_icons=true&theme=github_dark&hide_border=true"
-    alt="PufferFish GitHub statistics"
+    width="48%"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=queque-x86&layout=compact&theme=github_dark&hide_border=true"
-    alt="PufferFish most used programming languages"
+    width="48%"
   />
 </p>
 
 <p align="center">
   <img
     src="https://revdex.re/streak.php?user=queque-x86"
-    alt="PufferFish GitHub contribution streak"
+    width="60%"
   />
 </p>
 
