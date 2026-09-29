@@ -1,41 +1,47 @@
-# 👋 Hi, I'm ByteBit
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+<p align="center">
+  <img
+    src="https://camo.githubusercontent.com/5e444e7849263c04fd1e85257f30f50c2ad9dc7939f31b376758565f6c0b87de/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406973506f696e7465723f7468656d653d626f6f72752d6c657764"
+    alt="PufferFish profile banner"
+    width="100%"
+  />
 </p>
 
-> **C++ Developer • Cryptography • Security Research**
+# PufferFish
 
-I'm a C++ developer interested in **low-level programming, cryptography, security, and performance optimization**.
+> `C++` • `ASM` • `UNIX` • `x86`
 
-### 🔧 Skills
+### `ABOUT`
 
-* C / C++
-* Python
-* Cryptography
-* eSTREAM Ciphers
-* Security Research
-* Systems Programming
-* Performance Optimization
+C++ & ASM developer focused on system-level programming, low-level concepts, cryptography, OS development, software engineering, and performance optimization.
 
-### 🔐 Cryptography
+### `TOOLS`
 
-Interested in:
+`C++` • `ASM` • `GCC` • `MinGW` • `Makefile` • `Git`
 
-* eSTREAM Ciphers
-* ChaCha20 / XChaCha20
-* Salsa20
-* Stream Ciphers
-* ARX Constructions
-* Cryptographic Implementations
+### `GITHUB STATS`
 
-### 🛠️ Tools
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=queque-x86&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa"
+    alt="PufferFish GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=queque-x86&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa"
+    alt="PufferFish most used programming languages"
+  />
+</p>
 
-`GCC` • `MinGW` • `CMake` • `GDB` • `Git` • `Linux`
+```text
+$ whoami
+PufferFish
+
+$ uname -m
+x86_64
+
+$ echo "Keep it low-level."
+Keep it low-level.
+```
 
 ---
 
-> **Always learning. Always building.**
+`PufferFish`
