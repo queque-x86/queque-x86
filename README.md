@@ -38,13 +38,4 @@ C++ & ASM developer focused on system-level programming, low-level concepts, cry
   />
 </p>
 
-```text
-$ whoami
-PufferFish
-
-$ uname -m
-x86_64
-
-```
-
 ---
