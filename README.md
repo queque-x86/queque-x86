@@ -45,10 +45,6 @@ PufferFish
 $ uname -m
 x86_64
 
-$ echo "Keep it low-level."
-Keep it low-level.
 ```
 
 ---
-
-`PufferFish // queque-x86`
